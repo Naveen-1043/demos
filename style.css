@@ -13,3 +13,7 @@ body {
 {
     font-family: 'Helvetica Neue', sans-serif;
 }
+h1 {
+    color: blue;
+    text-align: center;
+}
